@@ -1,4 +1,4 @@
-# projeto-dashboard-vendas
+# PROJETO DASHBOARD DE VENDAS
 Dashboard interativo de vendas desenvolvido no Excel, com análise de dados e KPIs como Total de vendas, Desconto médio, Total de comissão e Quantidade vendida.
 
 <img width="1855" height="733" alt="Captura de tela 2026-03-28 132815" src="https://github.com/user-attachments/assets/783d0924-19e4-4e3c-b2d2-9156dd9b2567" />
